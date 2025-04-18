@@ -1,0 +1,7 @@
+rideable_type,member_casual,number_of_rides,average_ride_length
+classic_bike,member,4800,14.8
+classic_bike,casual,2000,24.5
+electric_bike,member,1400,16.2
+electric_bike,casual,1200,27.8
+docked_bike,member,300,14.5
+docked_bike,casual,300,24.2

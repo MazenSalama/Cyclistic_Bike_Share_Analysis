@@ -1,0 +1,3 @@
+member_casual,number_of_rides,average_ride_length,median_ride_length,max_ride_length
+member,6500,15.2,12.5,120.3
+casual,3500,25.7,22.1,180.5

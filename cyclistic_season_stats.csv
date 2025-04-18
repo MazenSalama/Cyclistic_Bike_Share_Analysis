@@ -1,0 +1,9 @@
+season,member_casual,number_of_rides,average_ride_length
+Winter,member,1200,13.5
+Winter,casual,400,22.8
+Spring,member,1600,15.2
+Spring,casual,700,25.1
+Summer,member,2200,16.8
+Summer,casual,1600,28.5
+Fall,member,1500,15.3
+Fall,casual,800,26.2
